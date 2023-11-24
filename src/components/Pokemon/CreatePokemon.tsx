@@ -5,7 +5,9 @@ export const CreatePokemon = () => {
     return (
         <>
             <Header />
-            <h1>Create</h1>
+            <div className="center-div">
+                Create
+            </div>
         </>
     )
 }
